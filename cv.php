@@ -23,7 +23,7 @@ if(!isset($_SESSION))
 <?php
 //require __DIR__ . '/control/app_index.php';
 include('view/header.php');
-//include('view/content_index.php');
+include('view/content_cv.php');
 include('view/footer.php');
 ?>
 </html>
