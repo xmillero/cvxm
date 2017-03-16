@@ -6,17 +6,25 @@
 <html>
 <body>
 
-<form action="formations.php">
+<form action="view/formations.php">
   <input type="submit" value="Mes formations"> 
 </form>
 
 
-<form action="experiences.php">
+<form action="view/experiences.php">
   <input type="submit" value="Mes expériences">
 </form>
 
-<form action="outils.php">
+<form action="view/outils.php">
   <input type="submit" value="Mes outils">
+</form>
+
+<form action="view/contactsentreprises.php">
+  <input type="submit" value="Mes Contacts">
+</form>
+
+<form action="view/autres.php">
+  <input type="submit" value="Autres">
 </form>
 
 </body>
