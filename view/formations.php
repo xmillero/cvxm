@@ -1,6 +1,18 @@
 <title>CV de Xavier MILLERON</title>
 
-<table>
+<!DOCTYPE html>
+<html>
+<head>
+<title>CV de Xavier MILLERON</title>
+<meta charset="UTF-8">
+<meta name="description" content="Présentation de mon CV">
+<meta name="keywords" content="HTML,CSS,PHP">
+<meta name="author" content="Xavier Milleron">
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+<link rel="stylesheet" href="../css/application.css" />
+</head>
+
+<table class='table'>
    <caption><h1>Mes Formations<h1></caption>
 
    <thead> <!-- En-tête du tableau -->

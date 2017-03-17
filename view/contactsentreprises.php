@@ -15,34 +15,32 @@
    <tbody> <!-- Corps du tableau -->
        <tr>
            <td>Consultant Philippe Willemetz</td>
-           <td>Mr Philippe WILLEMETZ</td>
-           <td>Chef d'entreprise</td>
-           <td>- </td>
+           <td>Mme Francoise Mongie</td>
+           <td>Responsable Comptable</td>
+           <td>Tel : 01.53.24.64.05</td>
        </tr>
        <tr>
-           <td>2001</td>
-           <td>Assistant Controleur de Gestion</td>
-           <td>IFOCOP, Paris 13</td>
+           <td>TotalInfo</td>
+           <td>Mme Sandrine Caritey</td>
+           <td>Responsable Consulting</td>
+           <td>Tel : 03.88.10.55.89</td>
        </tr>
        <tr>
-           <td>1994</td>
-           <td>UV3 du DECF</td>
-           <td>ECCIP, Paris 15</td>
+           <td>ITCE</td>
+           <td>Mr Thimothée Vanpouille</td>
+           <td>Responsable du Système d'information Finances Achats</td>
+           <td>Tel : 03.20.96.61.43</td>
        </tr>
        <tr>
-           <td>1993</td>
-           <td>DEPCF</td>
-           <td>ECCIP, Paris 15</td>
+           <td>Eiffage Energie</td>
+           <td>Mr Cyrille Danniel</td>
+           <td>EDirecteur du Controle Interne</td>
+           <td>Tel : 01.55.87.51.37</td>
        </tr>
        <tr>
-           <td>1992</td>
-           <td>Bac G2</td>
-           <td>ECCIP, Paris 15</td>
-       </tr>
-       <tr>
-           <td>1990</td>
-           <td>BEP Comptabilité</td>
-           <td>Lycee Guillaume Budee, Limeil Brevanne</td>
+           <td>Gras Savoye SAS</td>
+           <td>Mr Pierre-Yves Bouillonnec</td>
+           <td>Directeur Adjoint de Direction Comptable et de la Trésorerie</td>
        </tr>
    </tbody>
 </table>

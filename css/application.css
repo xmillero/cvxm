@@ -1,0 +1,12 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: separate;
+    border-spacing: 10px;
+    border-color: black;
+    border-style: solid;
+}
+th {
+	border-spacing: 5px;
+    border-color: black;
+    border-style: solid;
+}

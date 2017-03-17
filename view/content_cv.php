@@ -2,6 +2,8 @@
 
 <h1>Merci de cliquer sur l'un de ces trois boutons si vous rechercher une ressource en systeme d'informations comptables et financieres !</h1>
 
+<div class = "boutons">
+
 <!DOCTYPE html>
 <html>
 <body>
